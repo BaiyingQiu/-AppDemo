@@ -19,6 +19,7 @@
     NSLog(@"Hello");
     NSLog(@"GitText");
     NSLog(@"Hi");
+    NSLog(@"YCZ");
 }
 
 - (void)didReceiveMemoryWarning {
